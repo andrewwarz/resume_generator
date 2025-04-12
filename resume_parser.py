@@ -10,7 +10,7 @@ This tool transforms a plain text resume into beautifully formatted HTML and PDF
 It parses sections like experience, education, skills, and certifications from a simple
 text file and generates a professional-looking resume.
 
-Copyright (c) 2025 [YOUR NAME]
+Copyright (c) 2025 Andrew Arz
 All rights reserved.
 
 Feel free to modify and use this code for your personal use.
